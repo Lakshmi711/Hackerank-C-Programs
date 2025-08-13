@@ -51,7 +51,7 @@ This repository is aimed at **learning, practicing, and improving** C programmin
  
 ---
 
-##🚀 Future Improvements
+## 🚀 Future Improvements
 
 - Add more problem solutions from HackerRank.
 - Include problem descriptions in comments.
