@@ -48,6 +48,8 @@ This repository is aimed at **learning, practicing, and improving** C programmin
  -> cd Hackerrank-C-Programs
  -> gcc filename.c -o output
  -> ./output
+ 
+---
 
 ##🚀 Future Improvements
 
@@ -56,3 +58,9 @@ This repository is aimed at **learning, practicing, and improving** C programmin
 - Add unit tests for each solution.
 - Categorize problems by difficulty.
 
+---
+
+## 👤 Author
+**Lakshmi K**  
+- GitHub: [Lakshmi711](https://github.com/Lakshmi711)  
+- LinkedIn: [Lakshmi711](https://www.linkedin.com/in/Lakshmi711)
